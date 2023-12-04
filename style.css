@@ -1,0 +1,17 @@
+.titulo{padding: 16px;}
+
+.imagem{width: 100%;}
+
+.principal{background-color: #CCCCCC;
+text-align: center;
+padding-bottom: 30px;
+padding-top: 30px;}
+
+.destaque {color: red;}
+
+.beneficio{text-align: center;}
+
+.imagem.beneficio{width: 100%;}
+
+.lista{display: inline-block;
+vertical-align: top;}
